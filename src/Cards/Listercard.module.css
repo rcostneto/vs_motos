@@ -1,0 +1,86 @@
+@media (min-width:480px) {
+.container{
+    display: flex;
+    width: 94.2%;
+    color: #000000;
+    font-size: 11px;
+ 
+}
+
+
+.container_card_name {
+    background-color: #ffffff;
+    word-wrap: break-word;
+    height: 20px;
+    margin-bottom: -35px;
+    margin-left: -20px;
+    min-width:16%;
+    
+
+}
+
+.container_card_celular {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    padding-left: 20px;
+    min-width:9%;
+    
+    
+}
+
+.container_card_cpf {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    margin-left: -17px;
+    min-width:11%;
+}
+
+.container_card_email {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    min-width:13%;
+    
+}
+
+.container_card_endereco {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    min-width:16.5%;
+}
+
+.container_card_cep {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    min-width:8%;
+}
+
+.container_card_city {
+    background-color: #ffffff;
+    height: 20px;
+    margin-bottom: -35px;
+    min-width:13%;
+}
+
+.container_card_editar a {
+    
+    height: 20px;
+    margin-bottom: -35px;
+    min-width:2%;
+    margin-left: 8px;
+    transition: 0.1s;
+}
+
+.container_card_remover button {
+    border: none;
+    height: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+}
